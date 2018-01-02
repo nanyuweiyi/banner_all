@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\demo\demo4\MZBannerView-master\MZBannerView.iml" filepath="D:\demo\demo4\MZBannerView-master\MZBannerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MZBannerView-master.iml" filepath="$PROJECT_DIR$/MZBannerView-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\demo\demo4\MZBannerView-master\app\app.iml" filepath="D:\demo\demo4\MZBannerView-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mzbanner/mzbanner.iml" filepath="$PROJECT_DIR$/mzbanner/mzbanner.iml" />
+      <module fileurl="file://D:\demo\demo4\MZBannerView-master\mzbanner\mzbanner.iml" filepath="D:\demo\demo4\MZBannerView-master\mzbanner\mzbanner.iml" />
+    </modules>
+  </component>
+</project>
