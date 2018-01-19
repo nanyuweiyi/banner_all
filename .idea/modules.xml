@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://D:\demo\demo4\MZBannerView-master\MZBannerView.iml" filepath="D:\demo\demo4\MZBannerView-master\MZBannerView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/banner1.iml" filepath="$PROJECT_DIR$/.idea/banner1.iml" />
       <module fileurl="file://$PROJECT_DIR$/banner1.iml" filepath="$PROJECT_DIR$/banner1.iml" />
       <module fileurl="file://$PROJECT_DIR$/mzbanner/mzbanner.iml" filepath="$PROJECT_DIR$/mzbanner/mzbanner.iml" />
     </modules>
