@@ -207,9 +207,6 @@ app:canLoop="true"
 
 上面都是用Banner 展示的本地数据，但是项目中我们一般都是从网络获取Banner 数据，具体参考：`RemoteTestFragment.java`
 
-![从网络获取数据](image/network_data.gif)
-
-
 
 
 ### 其他对外API
